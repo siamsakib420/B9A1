@@ -186,7 +186,8 @@
     max-width: 393px;
     margin-top: 22px;
 }
-.ellipse1{
+
+.ellipse1 {
     width: 340px;
     height: 340px;
     border-radius: 463px;
@@ -194,21 +195,179 @@
     padding: 40px;
     margin-bottom: 40px;
 }
-#txt-2024{
+
+#txt-2024 {
     color: #F00;
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 16px;
 }
-#p3{
+
+#p3 {
     color: rgba(7, 2, 17, 0.60);
     max-width: 275px;
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
 }
-#img96{
+
+#img96 {
     width: 140px;
     height: 140px;
     margin-top: 43px;
+}
+
+.holiday {
+    margin-top: 140px;
+}
+
+.holiday-containerP {
+    align-items: center;
+    padding-bottom: 70px;
+}
+
+.holiday-heading {
+    color: #070211;
+    font-size: 35px;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.holiday-title {
+    text-align: center;
+    color: #070211;
+    font-size: 75px;
+    font-weight: 900;
+    padding-bottom: 30px;
+}
+
+.holiday-description {
+    padding-left: 400px;
+    width: 1068px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.holiday-images {
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.img1 {
+    width: 500px;
+    height: 350px;
+    position: relative;
+    top: 245px;
+}
+
+.img2 {
+    width: 420px;
+    height: 420px;
+    position: relative;
+    top: 4px;
+    left: 300px;
+}
+
+.img3 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 70px;
+    left: 185px;
+}
+
+/* best gift styles */
+.the-best-gift {
+    margin: 120px 140px 0px 140px;
+}
+
+.b-g-texts {
+    padding-left: 140px;
+
+}
+
+.best-gifts-heading {
+    color: #F00;
+    font-size: 25px;
+    margin-bottom: 24px;
+}
+
+.best-gift-title {
+    color: #070211;
+    font-size: 48px;
+}
+
+.best-gift-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    line-height: 32px;
+    max-width: 900px;
+    margin-bottom: 48px;
+}
+
+.gift-images {
+    padding-left: 140px;
+    transition: 2s;
+}
+
+.gift-images2 {
+    padding-left: 140px;
+    transition: 2s;
+}
+
+/* subcribe section styles */
+.subscribe {
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    width: 1500px;
+    height: 750px;
+    text-align: center;
+    margin: 140px auto;
+}
+
+.sub-img {
+    width: 150px;
+    height: 150px;
+    padding: 80px 585px 80px 585px;
+}
+
+.sub-h1 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+}
+
+.sub-p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 20px;
+    line-height: 32px;
+    max-width: 900px;
+    padding: 22px 212px 48px 212px;
+}
+
+#user-email {
+    width: 650px;
+    height: 72px;
+    background: #FFF;
+}
+
+.btn {
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    background-color: #F00;
+    border: 50px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.gmail{
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.30);
+    font-weight: 400;
 }
