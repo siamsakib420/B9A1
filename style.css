@@ -371,3 +371,25 @@
     color: rgba(7, 2, 17, 0.30);
     font-weight: 400;
 }
+/* footer section css */
+.contact{
+    display: flex;
+    width: 1920px;
+    height: 610px;
+    background: #070211;
+    justify-content: space-between;
+    margin-left: 500px;
+}
+#add{
+    display: flex;
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 40px;
+    margin-left: 100px;
+}
+.num{
+    display: flex;
+    
+
+}
